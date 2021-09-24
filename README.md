@@ -56,7 +56,7 @@ Creating a Webstorm File
 
 **Step 11**
 Add files to git
-* The Add to Git dialog opens.Click Add. This adds to local file system
+* The Add to Git dialog opens.Click Add. This adds to local file system
 
 
 **Step 13**
@@ -66,7 +66,7 @@ Commit your changes
 
 **Step 14**
 Push change to remote repository
-Click “Ctrl == Shift == K” Or “VCS == Git == Push”
+* Click “Ctrl == Shift == K” Or “VCS == Git == Push”
 
 
 **Step 15**
