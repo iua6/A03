@@ -1,5 +1,120 @@
 # A03
 
+**Step 1**
+Install Webstorm. Download from https://www.jetbrains.com/student/  
+
+
+**Step 2**
+Install Git as a local Program. Download from https://git-scm.com/downloads
+
+
+**Step 3**
+Setup Github. Create Github Account https://github.com/join
+
+
+**Step 4**
+Connect Github with Webstorm.
+* In Webstorm press (Ctrl+Alt+S) for system preferences. 
+* Select Version control Git. Enter the path to the git.exe
+
+
+**Step 5**
+Add Github Password to Webstorm.
+* In Webstorm press (Ctrl+Alt+S) for system preferences
+* Select Appearance and Behavior | System Settings | Passwords
+
+
+**Step 6**
+Create a repository. 
+* Click the + sign in the upper right corner 
+* Choose “Create New repository”
+
+
+**Step 7**
+The repository is set up
+* Make the repository public and add the readme file.
+* Click Create 
+
+
+**Step 8**
+Create a repository from Webstorm
+* Select VCS and Import into Version Control
+
+
+**Step 9**
+Import a repository from Github
+* From Main page Select Checkout from version control == Git  OR
+From within Webstorm Select VCS == Checkout from version control == Git
+* Enter Github repository name 
+* Enter local path name
+
+
+**Step 10**
+Creating a Webstorm File
+* Choose File == HTML == HTML 5 or File == Stylesheet
+
+
+**Step 11**
+Add files to git
+* The Add to Git dialog opens.Click Add. This adds to local file system
+
+
+**Step 13**
+Commit your changes
+* Enter updated information in "Update Readme.md" section.
+
+
+**Step 14**
+Push change to remote repository
+Click “Ctrl == Shift == K” Or “VCS == Git == Push”
+
+
+**Step 15**
+File is now on Github!
+
+
+**Step 16**
+Setup Guthub pages
+* CLick Settings
+* Check repository name
+
+
+**Step 17**
+Choose github page location
+* Select "Master branch"
+* Note the Published URL
+
+
+**Step 18**
+Check your Github pages
+* Copy the Github.io URL into a browser
+* Post the URL into Moodle with your Github account URL
+
+
+
+**REFERENCES**
+
+1. Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press. 
+2. Jetbrains. (2019). Git.   Retrieved March 21, 2019, from https://www.jetbrains.com/help/webstorm/using-git-integration.html
+3. GitHub (2019) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * **Branch** A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the main branch to publish your changes.
 
 * **Clone** A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. When you make a clone, you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. The repository you cloned is still connected to the remote version so that you can push your local changes to the remote to keep them synced when you're online.
